@@ -1,0 +1,14 @@
+---
+namespace: "community"
+name: "openstack"
+description: "OpenStack Collection for Ansible"
+version: 0.1.0
+readme: README.md
+authors:
+  - Fabien Dupont (https://github.com/fdupont-redhat)
+dependencies: []
+license_file: LICENSE.txt
+tags:
+  - cloud
+  - openstack
+repository: "https://github.com/ansible-collections/openstack"
